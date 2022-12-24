@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.b:hover{
+    color: white;
+}
+.imgbox img{
+    width: 0;
+    transition: width 1s ease-in-out;
+}
